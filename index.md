@@ -7,11 +7,13 @@ profile:
 published: true
 ---
 
-Hi there! My name's Juniper, but feel free to call me June. I am all bark. barkbarkbark! Talk to me about pictures of anthropomorphic animals, or about my writing, which I sometimes post to [my blog!](https://ju.niper.me/posts/){:target="_self"}
+Hi There! My name's Erin (It/Its), but feel free to call me puppy. Talk to me about video games F1, silly animal stuff, and the fight for trans rights which I sometimes write about on  [my blog!](https://t4t.dog/posts/){:target="_self"}
 
-A couple of fun facts: All of my work are powered by my plushies, which are everywhere on my desk and in my bed. This website is powered by GitHub Pages. I am typing this with a custom keyboard, a CannonKeys Sagittarius! I play my fighting games with a Snackbox Micro, that outs me as a JoJo's addict.
+A couple of fun facts:
+I am trans and actively fight for trans liberation.
+I am an actual real dog. Give me treats!
+All of my work is powered by mega AuDHD.
 
 ### Also, check out:
 
-- [pyonium.github.io](https://github.com/pyonium/pyonium.github.io) - The source code for this site!
-- [ju.niper.me](https://ju.niper.me/) - A funny recursive link to this page!
+- [vectorglitch.github.io](https://github.com/vectorglitch/vectorglitch.github.io) - The source code for this site!

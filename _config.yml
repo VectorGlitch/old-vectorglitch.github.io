@@ -1,11 +1,11 @@
 ### your site title here
 
-title: juniper
+title: erin
 description: dog on the internet
 
 baseurl: / #name of GitHub repository
-url: "https://ju.niper.me/" #custom url to be used instead of GitHub repository
-email: transrights@ju.niper.me
+url: "https://t4t.dog/" #custom url to be used instead of GitHub repository
+email: erin@t4t.dog
 
 # Pagination
 paginate: 4
@@ -13,10 +13,10 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-#twitter: "feral_inside"
+#twitter: sudomakestuff
 #stackoverflow: "#"
 #linkedin: "#"
-github: "pyonium"
+github: "vectorglitch"
 #researchgate: "#"
 #orcid: "#"
 #quora: "#"
