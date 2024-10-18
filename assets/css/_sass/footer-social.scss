@@ -31,6 +31,7 @@
 }
 
 .rounded-social-buttons .fa-twitter,
+.fa-mastodon,
 .fa-facebook-f,
 .fa-linkedin,
 .fa-github,
@@ -61,6 +62,16 @@
   color: #55acee;
   background: #fefefe;
   border-color: #55acee;
+}
+
+.rounded-social-buttons .social-button.mastodon {
+  background: #563ACC;
+}
+
+.rounded-social-buttons .social-button.mastodon:hover, .rounded-social-buttons .social-button.mastodon:focus {
+  color: #6364FF;
+  background: #fefefe;
+  border-color: #563ACC;
 }
 
 .rounded-social-buttons .social-button.linkedin {
